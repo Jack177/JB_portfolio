@@ -14,10 +14,10 @@ In progress
 ### Application shiny - Monitoring coral growth in mesocosms
 [View Shiny App](https://jack177.shinyapps.io/coralgrowth/)
 Bachelor's degree project to create a Shiny application for monitoring coral evolution in artificial environments. Submerged coral mass is measured for each cutting, then skeletal masses and other metrics are calculated. 
-More information are available <a href="https://econum.github.io/coral_growth001_book/">here</a>.
+<a href="https://econum.github.io/coral_growth001_book/">More information</a>.
 
 <img src="images/Coral_Growth.png?raw=true"/>
-[![](https://img.shields.io/badge/R-white?logo=R&logoColor=%23276DC3)](#)
+[![](https://img.shields.io/badge/R-white?logo=R&logoColor=%23276DC3)](#) [![](https://img.shields.io/badge/Python-white?logo=Python)](#)
 
 ---
 
