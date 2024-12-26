@@ -15,7 +15,7 @@
 (In progress).
 
 
-Dynamic map visualizing spatial and temporal data on European bee species. This work is involved in the European projects <a href="https://www.iucnredlist.org/regions/european-red-list">PULSE</a>, <a href="https://www.safeguard.biozentrum.uni-wuerzburg.de/Default.aspx">SAFEGUARD</a> and WESTBEES. <a href="https://econum.github.io/coral_growth001_book/">More information</a>.
+Dynamic map visualizing spatial and temporal data on European bee species. This work is involved in the European projects <a href="https://www.iucnredlist.org/regions/european-red-list">PULSE</a>, <a href="https://www.safeguard.biozentrum.uni-wuerzburg.de/Default.aspx">SAFEGUARD</a> and WESTBEES.
 
 <img src="images/Wild_Bees_Map.png?raw=true"/>
 
