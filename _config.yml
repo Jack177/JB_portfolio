@@ -1,15 +1,9 @@
 title: Jordan Benrezkallah # your name (or website title) here
 logo: "/images/photo_profil_compressed_500kb.png?raw=true" # your photo (or logo) here
 description: > 
-  Proficient in Data Science and Ecology with a specialization in Wild Bees and Conservation, I draw upon a robust academic background and extensive practical experience in research, analysis, and teaching. This blend enables me to combine a deep understanding of ecological systems with practical expertise in research methodologies and data analysis.
-  
-  As a Ph.D. candidate, my research focuses on the conservation and protection of wild pollinators. I actively contribute to several European initiatives, including WildPosh (pesticide risk assessment on pollinators), PULSE (European bee Red List assessment), WESTBEES (Mediterranean bee Red List assessment), ORBIT (European bee inventory and taxonomy), and SAFEGUARD (pollinator trends).
+  Data Scientist pursuing a Ph.D. focused on spatio-temporal data on pollinators at a European scale. Actively engaged in the <a href="https://www.wildposh.eu/">WildPosh</a> project addressing pesticide impacts, while also exploring artificial intelligence applications for biodiversity monitoring.
 
-  Previously, I served as a teaching assistant at the University of Mons (UMons), where I instructed courses in entomology, data science, and ecology. My hands-on experience includes studying the sublethal effects of pesticides on orchard bees (Osmia cornuta) in Spain and fieldwork in Cyprus to assess the population sizes and diet of Megachile cypricola, a critically endangered species.
-
-  With a background in bioinformatics (B.Sc.) and biology (M.Sc.), I have honed my expertise in statistical analysis, data management, and ecological research. Passionate about conservation biology, I am eager to continue advancing my work and contributing to the protection of biodiversity.
-
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a>
+  <a href="https://www.linkedin.com/in/jordan-benrezkallah/">View My LinkedIn Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
