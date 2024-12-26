@@ -3,7 +3,7 @@
 ---
 ### RASPBEE - Raspberry Pi for Bee Evaluation and Environmental monitoring 
 In progress
-<img src="Colletes_cunicularius_PS_compress25pct.png?raw=true"/>
+<img src="images/Colletes_cunicularius_PS_compress25pct.png?raw=true"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch&logoColor=%23EE4C2C)](#) [![](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=%23013243)](#) [![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458)](#) 
 
