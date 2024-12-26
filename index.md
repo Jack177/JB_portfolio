@@ -17,8 +17,7 @@ Bachelor's degree project to create a Shiny application for monitoring coral evo
 More information are available <a href="https://econum.github.io/coral_growth001_book/">here</a>.
 
 <img src="images/Coral_Growth.png?raw=true"/>
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-[![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458)](#) 
+[![](https://img.shields.io/badge/R-white?logo=R&logoColor=%23276DC3)](#)
 
 ---
 
