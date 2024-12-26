@@ -15,7 +15,7 @@
 (In progress).
 
 
-Dynamic map visualizing spatial and temporal data on European bee species. This work is involved in the European projects <a href="[https://www.safeguard.biozentrum.uni-wuerzburg.de/Default.aspx](https://www.iucnredlist.org/regions/european-red-list)">PULSE</a>, <a href="https://www.safeguard.biozentrum.uni-wuerzburg.de/Default.aspx">SAFEGUARD</a> and WESTBEES.
+Dynamic map visualizing spatial and temporal data on European bee species. This work is involved in the European projects <a href="https://www.iucnredlist.org/regions/european-red-list">PULSE</a>, <a href="https://www.safeguard.biozentrum.uni-wuerzburg.de/Default.aspx">SAFEGUARD</a> and WESTBEES.
 
 <img src="images/Wild_Bees_Map.png?raw=true"/>
 
@@ -31,18 +31,6 @@ Bachelor's degree project to create a Shiny application for monitoring coral evo
 <img src="images/Coral_Growth.png?raw=true"/>
 
 [![](https://img.shields.io/badge/R-white?logo=R&logoColor=%23276DC3)](#) 
-
----
-
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
