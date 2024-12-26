@@ -4,13 +4,13 @@ description: >
   Data Scientist pursuing a Ph.D. focused on spatio-temporal data on pollinators at a European scale. Actively engaged in the <a href="https://www.wildposh.eu/">WildPosh</a> project, which focuses on pesticide impacts, while also exploring artificial intelligence applications for biodiversity monitoring.
   <br><br>
 
-  <a href="https://www.linkedin.com/in/jordan-benrezkallah/">View My LinkedIn Profile</a>
+  <img src="images/linkedin.png?raw=true"/> <a href="https://www.linkedin.com/in/jordan-benrezkallah/">View My LinkedIn Profile</a>
 
-  <a href="https://www.researchgate.net/profile/Jordan-Benrezkallah">View My ResearchGate Profile</a>
+  <img src="images/ResearchGate.svg?raw=true"/> <a href="https://www.researchgate.net/profile/Jordan-Benrezkallah">View My ResearchGate Profile</a>
   
-  <a href="https://scholar.google.com/citations?user=-3H_9qkAAAAJ&hl=fr">View My Google Scholar</a>
+  <img src="images/Google_scholar.png?raw=true"/> <a href="https://scholar.google.com/citations?user=-3H_9qkAAAAJ&hl=fr">View My Google Scholar</a>
 
-  <a href="https://orcid.org/0009-0000-9385-7190">View ORCID ID Profile</a>
+  <img src="images/ORCID_iD.svg?raw=true"/> <a href="https://orcid.org/0009-0000-9385-7190">View ORCID ID Profile</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
