@@ -3,16 +3,15 @@ logo: "/images/photo_profil_compressed_500kb.png?raw=true" # your photo (or logo
 description: > 
   Data Scientist pursuing a Ph.D. focused on spatio-temporal data on pollinators at a European scale. Actively engaged in the <a href="https://www.wildposh.eu/">WildPosh</a> project, which focuses on pesticide impacts, while also exploring artificial intelligence applications for biodiversity monitoring.
   <br><br>
-
   <img src="images/linkedin.png?raw=true"/> <a href="https://www.linkedin.com/in/jordan-benrezkallah/">View My LinkedIn Profile</a>
-
+  <br>
   <img src="images/ResearchGate.svg?raw=true"/> <a href="https://www.researchgate.net/profile/Jordan-Benrezkallah">View My ResearchGate Profile</a>
-  
+  <br>
   <img src="images/Google_scholar.png?raw=true"/> <a href="https://scholar.google.com/citations?user=-3H_9qkAAAAJ&hl=fr">View My Google Scholar</a>
-
+  <br>
   <img src="images/ORCID_iD.svg?raw=true"/> <a href="https://orcid.org/0009-0000-9385-7190">View ORCID ID Profile</a>
-  
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
   - jekyll-remote-theme
 # google_analytics: UA-000000-0 # Uncomment and set your Google Analytics tracking ID here if needed
+
