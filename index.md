@@ -1,25 +1,13 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
-
-[View App](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/Coral_Growth.png?raw=true"/>
-
----
-[Application shiny - Monitoring coral growth in mesocosms](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 ### RASPBEE - Raspberry Pi for Bee Evaluation and Environmental monitoring 
-[View Shiny App](https://jack177.shinyapps.io/coralgrowth/)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-[![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458)](#)
+In progress
+<img src="Colletes_cunicularius_PS_compress25pct?raw=true"/>
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=PyTorch&logoColor=%23EE4C2C)](#) [![](https://img.shields.io/badge/numpy-white?logo=numpy&logoColor=%23013243)](#) [![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458)](#) 
+
+---
 
 ### Application shiny - Monitoring coral growth in mesocosms
 [View Shiny App](https://jack177.shinyapps.io/coralgrowth/)
@@ -29,6 +17,8 @@ More information are available <a href="https://econum.github.io/coral_growth001
 <img src="images/Coral_Growth.png?raw=true"/>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 [![](https://img.shields.io/badge/Pandas-white?logo=pandas&logoColor=%23150458)](#) 
+
+---
 
 
 - [Project 1 Title](http://example.com/)
